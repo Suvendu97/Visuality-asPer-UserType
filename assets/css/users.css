@@ -1,0 +1,15 @@
+body {
+  background-color: lightblue; }
+  body #container h1 {
+    text-align: center;
+    color: #ff0000; }
+  body #container #change-password-form {
+    margin-left: 100px; }
+    body #container #change-password-form h3 {
+      color: #da2d11f7; }
+    body #container #change-password-form input {
+      width: 300px; }
+    body #container #change-password-form #submit {
+      background-color: #2b57aa;
+      color: white;
+      height: 30px; }

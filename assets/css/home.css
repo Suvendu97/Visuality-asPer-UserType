@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  color: crimson; }
+
+#home-container {
+  display: flex;
+  margin-top: 100px; }
+  #home-container #main {
+    flex: 40%;
+    margin-left: 35px; }
+  #home-container #aside {
+    flex: 60%;
+    margin-right: 35px; }
+    #home-container #aside h2 {
+      text-align: right;
+      color: darkblue; }

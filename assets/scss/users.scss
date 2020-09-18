@@ -1,0 +1,28 @@
+body{
+    background-color:lightblue;
+
+    #container {
+        h1 {
+            text-align: center;
+            color: #ff0000;
+        }
+        #change-password-form {
+            margin-left: 100px;
+
+            h3 {
+                color:#da2d11f7;
+            }
+            
+            input {
+                width: 300px;
+            }
+            #submit {
+                background-color: rgb(43, 87, 170);
+                color: white;
+                height: 30px;
+            }
+
+        }
+    }
+
+}

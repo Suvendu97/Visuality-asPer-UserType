@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(170, 189, 172);
+    
+    #sign-up-container {
+        margin-left: 100px;
+            flex: 40%;
+            input {
+                width: 300px;
+            }
+            #submit {
+                background-color: rgb(43, 87, 170);
+                color: white;
+                height: 30px;
+            }
+        
+        
+    }
+}
+
